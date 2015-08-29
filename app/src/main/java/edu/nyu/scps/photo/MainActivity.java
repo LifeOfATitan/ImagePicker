@@ -200,6 +200,10 @@ public class MainActivity extends AppCompatActivity {
         Bitmap bitmap = BitmapFactory.decodeFile(path, options);
         imageView.setImageBitmap(bitmap);
 
+
+//Display image chosen from gallery
+        imageView2.setImageURI(uri2);
+
         deleteButton.setEnabled(true);
         fullsizeButton.setEnabled(true);
         galleryButton.setEnabled(true);
