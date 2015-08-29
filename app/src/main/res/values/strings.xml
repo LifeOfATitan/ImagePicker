@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Photo</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="fullsize">View fullsize</string>
+    <string name="delete">Delete</string>
+    <string name="gallery">Add to Gallery</string>
+    <string name="open_Image">open_image_button</string>
+</resources>
